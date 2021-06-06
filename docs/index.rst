@@ -7,9 +7,11 @@
 Documentação da API
 =========================
 
-Bem vindo a documentação da API(Banco de dados, Autenticador e funções especificas) utilizada no site da Semana da Química!
+Bem vindo a documentação dos serviços de Backend(GraphQL e autenticação com Cognito) que serão utilizados no projeto do On The Table
 
-Este documento possui o objetivo de exibir as operações existentes e como interagir com o banco de dados utilizando a API GraphQL
+Este documento possui o objetivo de exibir as operações existentes, como utiliza-las e exemplos ações corriqueiras
+
+Essa documentação foi escrita com o desenvolvimento utilizando o React em ment
 
 ==================================================
 
