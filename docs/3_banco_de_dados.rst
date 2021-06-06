@@ -8,6 +8,6 @@ Estrutura
 
 A estrutura do banco de dados:
 
-     .. image:: images/semanaBD.jpg
+     .. image:: images/relacao_banco.png
               :alt: Estrutura do banco de dados
               :align: center
