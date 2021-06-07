@@ -26,7 +26,7 @@ Queries podem ser categorizadas em 3 tipos padrões:
 - List: Retorna uma lista, que pode ser paginada, com todos os elementos
 - Sync: Sincroniza dados armazenados offline com dados online
 
-Destes 3 tipos iremos utilizar somente o Get e o List.
+Iremos utilizar todos os 3 tipos de dados.
 
 .. _Mutation:
 
