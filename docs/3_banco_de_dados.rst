@@ -12,4 +12,4 @@ A estrutura do banco de dados:
               :alt: Estrutura do banco de dados
               :align: center
 
-Link para `imagem <https://github.com/Senatauro/OnTheTable/blob/main/docs/images/relacao_banco.png>`:
+Link para `imagem <https://github.com/Senatauro/OnTheTable/blob/main/docs/images/relacao_banco.png>`_
